@@ -1,0 +1,8 @@
+platform :ios, '11.0'
+use_frameworks!
+
+target 'JacksExampleApp' do
+  pod 'Kingfisher'
+  pod 'R.swift'
+  pod 'RxSwift'
+end
