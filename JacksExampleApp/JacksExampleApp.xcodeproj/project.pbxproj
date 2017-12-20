@@ -97,7 +97,11 @@
 		119A8DE71FE9FE7200C1BCA2 /* JacksExampleApp */ = {
 			isa = PBXGroup;
 			children = (
-				119A8DE81FE9FE7200C1BCA2 /* AppDelegate.swift */,
+				119A8E1E1FEA03E700C1BCA2 /* Application */,
+				119A8E1F1FEA03F000C1BCA2 /* Resources */,
+				119A8E221FEA042A00C1BCA2 /* Models */,
+				119A8E211FEA040200C1BCA2 /* Modules */,
+				119A8E201FEA03F700C1BCA2 /* Network */,
 				119A8DEA1FE9FE7200C1BCA2 /* ViewController.swift */,
 				119A8DEC1FE9FE7200C1BCA2 /* Main.storyboard */,
 				119A8DEF1FE9FE7200C1BCA2 /* Assets.xcassets */,
@@ -123,6 +127,42 @@
 				119A8E0A1FE9FE7300C1BCA2 /* Info.plist */,
 			);
 			path = JacksExampleAppUITests;
+			sourceTree = "<group>";
+		};
+		119A8E1E1FEA03E700C1BCA2 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				119A8DE81FE9FE7200C1BCA2 /* AppDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		119A8E1F1FEA03F000C1BCA2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		119A8E201FEA03F700C1BCA2 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		119A8E211FEA040200C1BCA2 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		119A8E221FEA042A00C1BCA2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
