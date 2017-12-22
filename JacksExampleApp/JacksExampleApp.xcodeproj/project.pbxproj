@@ -14,6 +14,7 @@
 		119A8DF31FE9FE7200C1BCA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119A8DF11FE9FE7200C1BCA2 /* LaunchScreen.storyboard */; };
 		119A8DFE1FE9FE7300C1BCA2 /* JacksExampleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119A8DFD1FE9FE7300C1BCA2 /* JacksExampleAppTests.swift */; };
 		119A8E091FE9FE7300C1BCA2 /* JacksExampleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119A8E081FE9FE7300C1BCA2 /* JacksExampleAppUITests.swift */; };
+		119A8E241FEA0BC700C1BCA2 /* RootRouteTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119A8E231FEA0BC700C1BCA2 /* RootRouteTest.swift */; };
 		57AC6133C21C29A23252359A /* Pods_JacksExampleApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A15A0BFB9E2DDBE01B8E92DA /* Pods_JacksExampleApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		119A8E041FE9FE7300C1BCA2 /* JacksExampleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JacksExampleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		119A8E081FE9FE7300C1BCA2 /* JacksExampleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JacksExampleAppUITests.swift; sourceTree = "<group>"; };
 		119A8E0A1FE9FE7300C1BCA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		119A8E231FEA0BC700C1BCA2 /* RootRouteTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootRouteTest.swift; sourceTree = "<group>"; };
 		67FC68C713408F3C45EC33FA /* Pods-JacksExampleApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JacksExampleApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JacksExampleApp/Pods-JacksExampleApp.debug.xcconfig"; sourceTree = "<group>"; };
 		8D7AB978BA2480E23B4A5D12 /* Pods-JacksExampleApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JacksExampleApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-JacksExampleApp/Pods-JacksExampleApp.release.xcconfig"; sourceTree = "<group>"; };
 		A15A0BFB9E2DDBE01B8E92DA /* Pods_JacksExampleApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JacksExampleApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -121,6 +123,7 @@
 		119A8DFC1FE9FE7300C1BCA2 /* JacksExampleAppTests */ = {
 			isa = PBXGroup;
 			children = (
+				119A8E231FEA0BC700C1BCA2 /* RootRouteTest.swift */,
 				119A8DFD1FE9FE7300C1BCA2 /* JacksExampleAppTests.swift */,
 				119A8DFF1FE9FE7300C1BCA2 /* Info.plist */,
 			);
@@ -394,6 +397,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				119A8DFE1FE9FE7300C1BCA2 /* JacksExampleAppTests.swift in Sources */,
+				119A8E241FEA0BC700C1BCA2 /* RootRouteTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
