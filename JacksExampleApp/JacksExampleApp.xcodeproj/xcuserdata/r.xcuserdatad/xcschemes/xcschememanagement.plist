@@ -7,7 +7,25 @@
 		<key>JacksExampleApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>119A8DE41FE9FE7100C1BCA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>119A8DF81FE9FE7200C1BCA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>119A8E031FE9FE7300C1BCA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

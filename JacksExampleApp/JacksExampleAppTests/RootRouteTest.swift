@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import Nimble
 
 class RootRouteTest: XCTestCase {
     func testNavigateToView_loadsView() {
